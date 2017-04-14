@@ -2,7 +2,7 @@
 ### Week 2 Assignment
 
 
-####Adding a supervisor
+#### Adding a supervisor
 Program a supervisor process that can be used to start the frequency server, and 
 restart it whenever it has terminated unexpectedly.
 
@@ -16,7 +16,7 @@ the clients; on the other hand we can ensure that if the server terminates
 unexpectedly then the clients do too.
 
 
-####Using the observer
+#### Using the observer
 Using the observer tool as described in the previous exercise, observe how your
 system behaves when some of the constituent processes – including the supervisor
 itself – are killed.
